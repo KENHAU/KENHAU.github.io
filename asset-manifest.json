@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "http://localhost/build/static/css/main.01ce4188.chunk.css",
-    "main.js": "http://localhost/build/static/js/main.7f251cf5.chunk.js",
-    "main.js.map": "http://localhost/build/static/js/main.7f251cf5.chunk.js.map",
-    "runtime-main.js": "http://localhost/build/static/js/runtime-main.40fd6ce8.js",
-    "runtime-main.js.map": "http://localhost/build/static/js/runtime-main.40fd6ce8.js.map",
-    "static/css/2.e91b11d9.chunk.css": "http://localhost/build/static/css/2.e91b11d9.chunk.css",
-    "static/js/2.434bf1bc.chunk.js": "http://localhost/build/static/js/2.434bf1bc.chunk.js",
-    "static/js/2.434bf1bc.chunk.js.map": "http://localhost/build/static/js/2.434bf1bc.chunk.js.map",
-    "static/js/3.37503989.chunk.js": "http://localhost/build/static/js/3.37503989.chunk.js",
-    "static/js/3.37503989.chunk.js.map": "http://localhost/build/static/js/3.37503989.chunk.js.map",
-    "index.html": "http://localhost/build/index.html",
-    "static/css/2.e91b11d9.chunk.css.map": "http://localhost/build/static/css/2.e91b11d9.chunk.css.map",
-    "static/css/main.01ce4188.chunk.css.map": "http://localhost/build/static/css/main.01ce4188.chunk.css.map",
-    "static/js/2.434bf1bc.chunk.js.LICENSE.txt": "http://localhost/build/static/js/2.434bf1bc.chunk.js.LICENSE.txt"
+    "main.css": "https://kenhau.github.io/static/css/main.01ce4188.chunk.css",
+    "main.js": "https://kenhau.github.io/static/js/main.7f251cf5.chunk.js",
+    "main.js.map": "https://kenhau.github.io/static/js/main.7f251cf5.chunk.js.map",
+    "runtime-main.js": "https://kenhau.github.io/static/js/runtime-main.0e532c6e.js",
+    "runtime-main.js.map": "https://kenhau.github.io/static/js/runtime-main.0e532c6e.js.map",
+    "static/css/2.e91b11d9.chunk.css": "https://kenhau.github.io/static/css/2.e91b11d9.chunk.css",
+    "static/js/2.ba530838.chunk.js": "https://kenhau.github.io/static/js/2.ba530838.chunk.js",
+    "static/js/2.ba530838.chunk.js.map": "https://kenhau.github.io/static/js/2.ba530838.chunk.js.map",
+    "static/js/3.37503989.chunk.js": "https://kenhau.github.io/static/js/3.37503989.chunk.js",
+    "static/js/3.37503989.chunk.js.map": "https://kenhau.github.io/static/js/3.37503989.chunk.js.map",
+    "index.html": "https://kenhau.github.io/index.html",
+    "static/css/2.e91b11d9.chunk.css.map": "https://kenhau.github.io/static/css/2.e91b11d9.chunk.css.map",
+    "static/css/main.01ce4188.chunk.css.map": "https://kenhau.github.io/static/css/main.01ce4188.chunk.css.map",
+    "static/js/2.ba530838.chunk.js.LICENSE.txt": "https://kenhau.github.io/static/js/2.ba530838.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.40fd6ce8.js",
+    "static/js/runtime-main.0e532c6e.js",
     "static/css/2.e91b11d9.chunk.css",
-    "static/js/2.434bf1bc.chunk.js",
+    "static/js/2.ba530838.chunk.js",
     "static/css/main.01ce4188.chunk.css",
     "static/js/main.7f251cf5.chunk.js"
   ]
